@@ -1,5 +1,6 @@
 {
   "name": "VoidWare",
-  "endpoint": "https://evans-insight-progressive-alabama.trycloudflare.com",
-  "updated": "2026-10-14T19:30:31.410Z"
+  "endpoint": "https://voidware-accounts.voidware-client.workers.dev",
+  "protocol": "scrypt-v1",
+  "updated": "2026-10-15T12:49:32.301Z"
 }
